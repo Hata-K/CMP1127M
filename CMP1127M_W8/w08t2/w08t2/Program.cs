@@ -10,7 +10,6 @@ namespace w08t2
 	{
 		public static void Main(string[] args)
 		{
-
 			Console.WriteLine("Enter two integers to add...");
 			int number1 = Convert.ToInt32(Console.ReadLine());
 			int number2 = Convert.ToInt32(Console.ReadLine());

@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\CMP1127M_W8\w08t1\w08t1\bin\Debug\w08t1.exe.config
+C:\Users\Student\Desktop\CMP1127M_W8\w08t1\w08t1\bin\Debug\w08t1.exe
+C:\Users\Student\Desktop\CMP1127M_W8\w08t1\w08t1\bin\Debug\w08t1.pdb
+C:\Users\Student\Desktop\CMP1127M_W8\w08t1\w08t1\obj\Debug\w08t1.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\CMP1127M_W8\w08t1\w08t1\obj\Debug\w08t1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\CMP1127M_W8\w08t1\w08t1\obj\Debug\w08t1.exe
+C:\Users\Student\Desktop\CMP1127M_W8\w08t1\w08t1\obj\Debug\w08t1.pdb

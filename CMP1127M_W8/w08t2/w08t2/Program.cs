@@ -10,13 +10,10 @@ namespace w08t2
 	{
 		public static void Main(string[] args)
 		{
-			long num = Int64.Parse(args[0]);
-			Console.WriteLine(num);
 
-			/*
 			Console.WriteLine("Enter two integers to add...");
-			int number1 = Convert.ToInt32(args[0]);
-			int number2 = Convert.ToInt32(args[1]);
+			int number1 = Convert.ToInt32(Console.ReadLine());
+			int number2 = Convert.ToInt32(Console.ReadLine());
 			Console.WriteLine("Answer: {0} \n", Calculator.add(number1, number2));
 			
 			Console.WriteLine("Enter two doubles to add...");
@@ -24,7 +21,6 @@ namespace w08t2
 			double number4 = Convert.ToDouble(Console.ReadLine());
 			Console.WriteLine("Answer: {0}", Calculator.add(number3, number4));
 			Console.ReadLine();
-			*/
 
 		}
 

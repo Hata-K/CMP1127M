@@ -5,3 +5,10 @@ C:\Users\Student\Downloads\w08t2-20181120T094726Z-001\w08t2\w08t2\obj\Debug\w08t
 C:\Users\Student\Downloads\w08t2-20181120T094726Z-001\w08t2\w08t2\obj\Debug\w08t2.csproj.CoreCompileInputs.cache
 C:\Users\Student\Downloads\w08t2-20181120T094726Z-001\w08t2\w08t2\obj\Debug\w08t2.exe
 C:\Users\Student\Downloads\w08t2-20181120T094726Z-001\w08t2\w08t2\obj\Debug\w08t2.pdb
+C:\Users\Dell\Documents\GitHub\CMP1127M\CMP1127M_W8\w08t2\w08t2\bin\Debug\w08t2.exe.config
+C:\Users\Dell\Documents\GitHub\CMP1127M\CMP1127M_W8\w08t2\w08t2\bin\Debug\w08t2.exe
+C:\Users\Dell\Documents\GitHub\CMP1127M\CMP1127M_W8\w08t2\w08t2\bin\Debug\w08t2.pdb
+C:\Users\Dell\Documents\GitHub\CMP1127M\CMP1127M_W8\w08t2\w08t2\obj\Debug\w08t2.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\CMP1127M\CMP1127M_W8\w08t2\w08t2\obj\Debug\w08t2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\CMP1127M\CMP1127M_W8\w08t2\w08t2\obj\Debug\w08t2.exe
+C:\Users\Dell\Documents\GitHub\CMP1127M\CMP1127M_W8\w08t2\w08t2\obj\Debug\w08t2.pdb
